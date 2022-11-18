@@ -1,1 +1,32 @@
 /* Add your own styles */
+
+header {
+
+background-color: #E6A1D7;
+height: 100px;
+text-align: center;
+margin: auto;
+}
+
+#lookup{
+
+    border: none;
+    background-color: #BF69C2; 
+    color: black;
+
+}
+
+#controls{
+
+    margin: 10px;
+}
+
+table td, table th {
+    border: 1px solid #61346B ;
+}
+
+td {
+    text-align: center;
+}
+
+
