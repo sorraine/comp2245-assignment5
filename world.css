@@ -3,15 +3,35 @@
 header {
 
 background-color: #E6A1D7;
-height: 100px;
+height: 300px;
 text-align: center;
 margin: auto;
+display: flexbox;
+flex-direction: column;
+padding-top: 20px;
+}
+
+img {
+
+height: 200px;
+width: 200px;
+position: relative;
+border-radius: 50%;
+
 }
 
 #lookup{
 
     border: none;
     background-color: #BF69C2; 
+    color: black;
+
+}
+
+#butty{
+
+    border: none;
+    background-color: #E0CDEE;
     color: black;
 
 }
